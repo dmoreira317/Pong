@@ -6,4 +6,4 @@ This was my first approach to using several imports and functionalities in pytho
 - Retro game Pong. 
 
 #### Languages and modules used
-`Python` `Pygames`
+`Python` `turtle`
